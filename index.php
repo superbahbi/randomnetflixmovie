@@ -89,9 +89,11 @@
 		<p><a href="<?php echo $link[$rand] ?>" class="btn btn-inverse btn-large ">Random &raquo;</a></p>
       </div>
 	  
+	  <!--
 	  <footer class="offset5">
 			<p>&copy; bahbi</p>
 	  </footer>
+	  -->
       <hr>
       <hr>
 
